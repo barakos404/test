@@ -1,2 +1,2 @@
 # test
-api key =
+API KEY =
